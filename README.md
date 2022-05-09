@@ -1,3 +1,3 @@
 # CompanyManagement
 
-Website created in eclipse usin jsp and servlet
+Website created in eclipse using jsp and servlet
