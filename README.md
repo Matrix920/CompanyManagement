@@ -1,3 +1,3 @@
 # CompanyManagement
 
-Website created in eclipse using jsp and servlet
+Website for real estates created in eclipse using jsp and servlet
